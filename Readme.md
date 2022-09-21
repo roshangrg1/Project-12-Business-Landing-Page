@@ -1,4 +1,4 @@
-# Project-12 Business Landing Page
+# Project-12 Business Landing Page [go-live](https://p-12.netlify.app/)
 This is simple website of home page. In this project I have only used core css. It is responsive as well.
 
 
